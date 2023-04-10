@@ -1,4 +1,6 @@
 tdd
 geckodriver.log
-tdd
-tdd/
+tdd/bin
+tdd/lib
+tdd/lib64
+tdd/include
