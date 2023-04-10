@@ -4,3 +4,5 @@ tdd/bin
 tdd/lib
 tdd/lib64
 tdd/include
+__pycache__
+*.pyc
